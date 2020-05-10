@@ -2,7 +2,7 @@ baseurl = "/"
 #Warning: You should change the "baseurl" option in config.toml from https://www.example.com/ to your 
 #actual domain; if you do not have a domain, set "baseurl" to "/"
 languageCode = "en-us"
-title = "James Gammerman's Blog"
+title = "James Gammerman"
 theme = "blackburn"
 author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Shown in the home page
-  subtitle = "My blogdown website"
+  subtitle = "An #rstats blog"
   brand = "Blackburn"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
